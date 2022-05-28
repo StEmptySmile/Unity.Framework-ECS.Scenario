@@ -1,1 +1,1 @@
-# Unity.Framework-ECS.Scenario
+# ECS.Scenario - Сценарий
